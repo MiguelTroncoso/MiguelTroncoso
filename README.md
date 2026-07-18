@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Miguel Troncoso</h1>
-<h3 align="center">Desarrollador Full Stack Javascript, from in Chile</h3>
+<h3 align="center">Desarrollador Full Stack from in Chile</h3>
 
-- 🔭 I’m currently working on **Driver Uber** and **Freelance programmer and web designer**
+- 🔭 I’m currently working on **IPTV** and **Freelance programmer and web designer**
 
 - 🌱 I’m currently learning **Javascript, Python, Angular, Laravel and Api's**
 
