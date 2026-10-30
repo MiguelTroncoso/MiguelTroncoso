@@ -1,25 +1,56 @@
-<h1 align="center">Hi 👋, I'm Miguel Troncoso</h1>
-<h3 align="center">Desarrollador Full Stack from in Chile</h3>
+<h1 align="center">Hola 👋, soy Miguel Troncoso</h1>
+<h3 align="center">Desarrollador Full-Stack JavaScript · Infraestructura Linux · Estudiante de Ciberseguridad</h3>
+<p align="center">📍 Chile · 🌎 Disponible para teletrabajo</p>
 
-- 🔭 I’m currently working on **IPTV** and **Freelance programmer and web designer**
+---
 
-- 🌱 I’m currently learning **Javascript, Python, Angular, Laravel and Api's**
+### 🚀 Sobre mí
 
-- 👯 I’m looking to collaborate on **Web design projects**
+- 📺 Fundador de **SuperFlash**, una plataforma de streaming IPTV/OTT que opero hace cerca de un año: administro los servidores **Ubuntu**, el backend, el frontend web y las apps para Android y Android TV.
+- 🏢 Fundador de **XView SPA**, agencia de desarrollo web (e-commerce, WordPress, sistemas a medida).
+- 🎓 Estudiante de **Analista Programador en INACAP** (primer año), con continuidad a **Ingeniería en Ciberseguridad**.
+- 📜 Bootcamps SENCE: **Full Stack JavaScript** y **Python Trainee**.
+- 🔎 Busco un rol **remoto** en desarrollo web, backend o infraestructura.
 
-- 👨‍💻 All of my projects are available at [https://github.com/migxelito](https://github.com/migxelito) and [https://github.com/migueltroncoso](https://github.com/migueltroncoso)
+### 🛠️ Proyectos destacados
 
-- 💬 Ask me about **HTML, CSS, BOOSTRAP, JS, PYTHON**
+| Proyecto | Descripción | Stack |
+| --- | --- | --- |
+| [Super Flash TV](https://github.com/MiguelTroncoso/App_SuperFlash_Tv) | App de streaming para celulares, tablets y Android TV | React Native · Expo · EAS |
+| [SuperFlash Monitor](https://github.com/MiguelTroncoso/superflash_ia) | Monitoreo de servidores y canales con API protegida y alertas | Python · FastAPI · PostgreSQL · Docker |
+| [IPTV Download Manager](https://github.com/MiguelTroncoso/IPTV-Download-Manager) | Panel y worker que procesa catálogos de video en el servidor | FastAPI · SQLite · FFmpeg · Ubuntu |
+| [CRM WhatsApp](https://github.com/MiguelTroncoso/Crm_Nuevo) | Captura en tiempo real de mensajes de WhatsApp Business | NestJS · Prisma · PostgreSQL |
+| [App Auditor SII](https://github.com/MiguelTroncoso/App_auditor) | Guía de cumplimiento tributario (F29, F22) para empresas chilenas | React · TypeScript · Express · SQLite |
+| [ClickAndGo](https://github.com/MiguelTroncoso/ecommerce) | E-commerce con POO segura y arquitectura por capas · [demo](https://inacap.superflash.site) | Python · SQLite |
+| [Alke Wallet](https://github.com/MiguelTroncoso/Alke-Wallet) | Billetera digital: login, saldo, transferencias e historial | HTML · CSS · JavaScript |
 
-- 📫 How to reach me **miguel@troncotech.com**
+🌐 Portafolio: [migueltroncoso.github.io/modulo_8](https://migueltroncoso.github.io/modulo_8/)
 
-<h3 align="left">Connect with me:</h3>
+### 🧰 Tecnologías
+
+**Frontend:** JavaScript · TypeScript · React · Next.js · HTML · CSS · Bootstrap
+**Móvil:** React Native · Expo · Android TV
+**Backend:** Node.js · Express · NestJS · Python · FastAPI · Django
+**Bases de datos:** PostgreSQL · SQLite · Prisma · MySQL · Oracle
+**Infraestructura:** Ubuntu Server · Docker · Nginx · VPS · Bash
+**Herramientas:** Git · Postman · n8n · FFmpeg · WordPress
+
 <p align="left">
-<a href="https://dev.to/migxelito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="migxelito" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/miguel-troncoso-burgos-a5a688278" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miguel-troncoso-burgos-a5a688278" height="30" width="40" /></a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+### 📫 Contacto
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=migxelito&show_icons=true&locale=en&layout=compact" alt="migxelito" /></p>
+- ✉️ [miguel@xviewspa.ovh](mailto:miguel@xviewspa.ovh)
+- 💼 [LinkedIn](https://linkedin.com/in/miguel-troncoso-burgos-a5a688278)
